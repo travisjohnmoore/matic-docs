@@ -1,7 +1,7 @@
 ---
 id: orientation
 title: How to contribute
-description: We believe one of the things that makes Polygon special is its coherent design and we seek to retain this defining characteristic.
+description: We believe, one of the things that makes Polygon special is its coherent design. This is one of the many reasons we actively colaberate, so we build into the foundations this defining characteristic.
 keywords:
   - docs
   - matic
